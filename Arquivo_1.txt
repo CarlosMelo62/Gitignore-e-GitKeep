@@ -3,3 +3,11 @@ Minha primeira linha de muitas
 Segunda linha 
 
 Terceira linha
+
+git init .		  -> cria novo repositorio git
+git status		  -> Motra o status da branch atual
+git add <nome arquivo>    -> Manda arquivo para stage
+git commit -m "minha msg" -> cosolida o checkpoint "commit"
+git log			  -> Exibe historico de commits
+git reset		  -> retorna para unstage
+git reset idCommit        -> retorna para pos-commit
